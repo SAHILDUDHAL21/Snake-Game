@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+    <envs>
+      <env name="_JAVA_OPTIONS" value="" />
+      <env name="COMMAND_NOT_FOUND_INSTALL_PROMPT" value="   " />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="Snake Game" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
