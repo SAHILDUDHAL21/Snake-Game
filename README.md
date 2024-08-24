@@ -8,7 +8,7 @@ inspired form nokia handsets
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/SAHILDUDHAL21/Snake-Game/blob/main/image.png)
 
 
 ## Features
