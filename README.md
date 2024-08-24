@@ -8,7 +8,7 @@ inspired form nokia handsets
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SAHILDUDHAL21/Flappy-Bird/blob/main/image.png)
+![App Screenshot]()
 
 
 ## Features
