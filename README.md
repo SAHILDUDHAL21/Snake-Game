@@ -44,13 +44,13 @@ inspired form nokia handsets
 Clone the project
 
 ```bash
-  git clone https://github.com/SAHILDUDHAL21/Flappy-Bird.git
+https://github.com/SAHILDUDHAL21/Snake-Game.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Flappy-Bird
+  cd Snake-Game
 ```
 
 Oprn Project in Ide Hit run 
