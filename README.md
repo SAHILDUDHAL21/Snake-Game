@@ -58,7 +58,7 @@ Oprn Project in Ide Hit run
 
 ## License
 
-[MIT LICENSE](https://github.com/SAHILDUDHAL21/Flappy-Bird/blob/main/LICENSE)
+[MIT LICENSE](https://github.com/SAHILDUDHAL21/Snake-Game/blob/main/License)
 
 
 ## Authors
